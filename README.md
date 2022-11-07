@@ -6,7 +6,7 @@
 
 - clasess and Id selectors used to create color and design to li material
 - loadQuestion function used to generate questions
-- console.log used to genrate answers 
+- console.log used to genrate answers for users
 
 
 
